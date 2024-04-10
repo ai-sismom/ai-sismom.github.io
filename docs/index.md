@@ -5,6 +5,10 @@
 
 ![My new picture](/docs/JRMGarcia.jpeg "My new picture")
 
+<!-- HTML -->
+<img style="float: right;" src="/docs/JRMGarcia.jpeg" width="125" height="125">
+<img style="float: left;" src="/docs/JRMGarcia.jpeg" width="125" height="125">
+
 ## Team:
 
 *  MP Graziotto
