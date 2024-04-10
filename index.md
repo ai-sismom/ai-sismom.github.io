@@ -2,6 +2,8 @@
 [INPE' homepage](https://www.gov.br/inpe/pt-br)
 
 ## Coordination: Garcia
+![Alt text](http://www3.cptec.inpe.br/dimnt/wp-content/uploads/sites/3/2020/07/JOS%C3%89-ROBERTO-MOTTA-GARCIA.png)
+
 <!-- HTML -->
 | Old me | New me |
 |---|---|
