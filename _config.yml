@@ -1,5 +1,5 @@
-title: [AI SisMOM]
-description: [SisMOM's AI Team homepage]
+title: [Title entry in _config.yml]
+description: [Description entry in _config.yml]
 
 # architect | cayman | Dinky | Hacker | Leap day | Merlot | Midnight | Minima | Minimal | Modernist | Slate | Tactile | Time machine
 remote_theme: pages-themes/cayman@v0.2.0
