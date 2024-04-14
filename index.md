@@ -2,13 +2,16 @@
 
 | Ship Detection | Oil spill Detection | Oil Dispersion |
 |----------------|---------------------|----------------|
-| a | [](https://www.researchgate.net/profile/Gui-Song_XIA/publication/281530593/figure/fig2/AS:284594248142856@1444863965040/Segmenting-SAR-images-of-a-pond-top-and-oil-spill-bottom-From-left-to-right.png)  | c | 
+| [](https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png) | [](https://www.researchgate.net/profile/Gui-Song_XIA/publication/281530593/figure/fig2/AS:284594248142856@1444863965040/Segmenting-SAR-images-of-a-pond-top-and-oil-spill-bottom-From-left-to-right.png)  | c | 
 |<center>**Hydrodynamic modelling**</center> | <center>**Infrastructure**</center> | <center>**Drones Surveilance**</center> |
 | d | e | f | 
 
 ## References
-Ship: Greidanus, H.; Alvarez, M.; Santamaria, C.; Thoorens, F.-X.; Kourti, N.; Argentieri, P. The SUMO Ship Detector Algorithm for Satellite Radar Images. Remote Sens. 2017, 9, 246. https://doi.org/10.3390/rs9030246
-Oil: GIS and Earth Observation University 2024 at https://www.geo.university/pages/blog?p=oil-spill-detection-with-sar-images
+Ship: Lang, Haitao & Zhang, Jie & Zhang, Ting & Zhao, Di & Meng, Junmin. (2014). Hierarchical ship detection and recognition with high-resolution polarimetric synthetic aperture radar imagery. Journal of Applied Remote Sensing. 8. 083623. 10.1117/1.JRS.8.083623. 
+
+
+Oil: Liu, Gang & Xia, Gui-Song & Yang, Wen. (2013). SAR Image Segmentation via Non-local Active Contours. International Geoscience and Remote Sensing Symposium (IGARSS). 10.1109/IGARSS.2014.6947294. 
+
 
 <!-- 
 SisMOM's AI Team homepage
