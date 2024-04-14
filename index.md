@@ -1,5 +1,6 @@
-[SHIP_IMG_SRC]: https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png
+{{ ship_paper }}
 
+<!--
 ## Main goals
 
 | Ship Detection | Oil spill Detection | Oil Dispersion |
