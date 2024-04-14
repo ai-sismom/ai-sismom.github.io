@@ -14,8 +14,8 @@ SisMOM is an acronym for **Oil Spill Monitoring System for the Ocean**. It is fu
 | **6. Infrastructure and DB:** Deals with the infrastructure used by the project, things like which environment to use, where and how to store the datasets, where to process jobs, run AI training, how things communicate among them, etc. This includes from where the Situational Room will run. | |
 | **7. Drone Surveilance:** Responsible for providing an hierarchy of drones for crossing along beaches seeking for oils spills, find then and report. | |
 | **8. Satellite Surveilance:** Is only a study about the needed hierarchy of satellites to monitor our 5.5 million km2 of our ocean. We will not provide them, they are just studies of feasibility to be executed in another project. | |
-| **9. Artificial Intelligence:** Is present at every sub-goal. It will be used to not only improve the outcomes from every sub-project as their input data. | <img src="[/assets/img/SAM-OilSlicks.png]" alt="(by JRMGarcia)"/> |
-                       
+| **9. Artificial Intelligence:** Is present at every sub-goal. It will be used to not only improve the outcomes from every sub-project as their input data. | <img src="/assets/img/SAM-OilSlicks.png" alt="(by JRMGarcia)"/> |
+
 ## References
 
 * Ship Detection: Lang, Haitao & Zhang, Jie & Zhang, Ting & Zhao, Di & Meng, Junmin. (2014). Hierarchical ship detection and recognition with high-resolution polarimetric synthetic aperture radar imagery. Journal of Applied Remote Sensing. 8. 083623. 10.1117/1.JRS.8.083623. 
