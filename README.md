@@ -4,12 +4,18 @@ SisMOM is an acronym for **Oil Spill Monitoring System for the Ocean**. It is fu
 
 ## SisMOM Main Goals
 
-<!-- <img src="images/Dharani_Headshot_photo - Copy.jpg" alt="Dharani's Headshot" width="250" align="right" /> -->
+<p>
+<img src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014)" align="right" height="100px" width="200px" />
+1. Ship Detection
+Responsible for detecting ships from satellite data (optical and SAR). Traditional CFAR methodology and Deep Learning is going to be used to build a labelled dataset for AI training.
+</p>
 
-<img src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014)" align="left" height="100px" width="200px" />
+<p>
+<img src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014)" align="right" height="100px" width="200px" />
+2. Oil Spill Detection
+Responsible for detecting oil spill in the ocean, also from satellite data (optical and SAR). This sub-project will also build a labelled training dataset with uses cases occurred in Brazil by using traditional (but good) methodologies. Dr. Milton Kampel, from INPE's Remote Sensing dept is the coordinator. In addition to monitor oil spill in the ocean, we'll mine social media in order to check (via AI) for messages and photos related to oil spill on the beach. This is important because in some cases the oil navigates under the surface of the water and suddenly appears on the beach. And we want to check it as soon as possible.
+</p>
 
-### 1. Ship Detection
-### 2. Oil Spill Detection
 ### 3. Oil Dispersion
 ### 4. Situation Room
 ### 5. Hydrodynamic Modelling
