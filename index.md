@@ -1,10 +1,18 @@
 ##Main goals
+[IMG_SHIP_DET]: "https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png"
+
+This is a link to [IMG_SHIP_DET]
+
 
 | Ship Detection | Oil spill Detection | Oil Dispersion |
 |----------------|---------------------|----------------|
-| <img src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014, Hierarchical ship detection and recognition with high-resolution polarimetric synthetic aperture radar imagery)" style="height: 100px; width:200px;"/> | <img src="https://www.researchgate.net/profile/Gui-Song_XIA/publication/281530593/figure/fig2/AS:284594248142856@1444863965040/Segmenting-SAR-images-of-a-pond-top-and-oil-spill-bottom-From-left-to-right.png" alt="(Liu et al., 2013, SAR Image Segmentation via Non-local Active Contours)" style="height: 100px; width:200px;"/> | c | 
+| <a href="http://google.com.au/" <img src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014, Hierarchical ship detection and recognition with high-resolution polarimetric synthetic aperture radar imagery)" style="text-align: center; height: 100px; width:200px;"/> | 
+
+<img src="https://www.researchgate.net/profile/Gui-Song_XIA/publication/281530593/figure/fig2/AS:284594248142856@1444863965040/Segmenting-SAR-images-of-a-pond-top-and-oil-spill-bottom-From-left-to-right.png" alt="(Liu et al., 2013, SAR Image Segmentation via Non-local Active Contours)" style="text-align: center; height: 100px; width:200px;"/> | c | 
 |<center>**Hydrodynamic modelling**</center> | <center>**Infrastructure**</center> | <center>**Drones Surveilance**</center> |
 | d | e | f | 
+
+<a href="http://google.com.au/" rel="external">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
 
 ## References
 
