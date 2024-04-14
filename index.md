@@ -3,16 +3,17 @@
 ## Main goals
 
 <table border="1" bordercolor="#aaa" cellspacing="0" cellpadding="0" width="100%">
-<th>
-    <td width="(100/2)%">Ship Detection</td>
-    <td width="(100/2">Oil Spill Detection</td>
-</th>
+<tr>
+    <th width="(100/3)%">Ship Detection</th>
+    <th width="(100/3">Oil Spill Detection</th>
+    <th width="(100/3">Oil Dispersion</th>
+</tr>
 <tr>
     <td><img width="100%" height="100%" src="" />
       <img src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014, Hierarchical ship detection and recognition with high-resolution polarimetric synthetic aperture radar imagery)" style="text-align: center; height: 100px; width:100%;"/>
     </td>
     <td><img width="100%" height="100%" src="" />
-      <img src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014, Hierarchical ship detection and recognition with high-resolution polarimetric synthetic aperture radar imagery)" style="text-align: center; height: 100px; width:100%;"/>
+      <img src="https://www.researchgate.net/profile/Gui-Song_XIA/publication/281530593/figure/fig2/AS:284594248142856@1444863965040/Segmenting-SAR-images-of-a-pond-top-and-oil-spill-bottom-From-left-to-right.png" alt="(Liu et al., 2013, SAR Image Segmentation via Non-local Active Contours)" style="text-align: center; height: 100px; width:100%;"/>
     </td>
 </tr>
 </table>
