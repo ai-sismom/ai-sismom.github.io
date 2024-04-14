@@ -2,7 +2,7 @@
 
 | Ship Detection | Oil spill Detection | Oil Dispersion |
 |----------------|---------------------|----------------|
-| [](https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png) | [](https://www.researchgate.net/profile/Gui-Song_XIA/publication/281530593/figure/fig2/AS:284594248142856@1444863965040/Segmenting-SAR-images-of-a-pond-top-and-oil-spill-bottom-From-left-to-right.png)  | c | 
+| ![](https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png) | ![](https://www.researchgate.net/profile/Gui-Song_XIA/publication/281530593/figure/fig2/AS:284594248142856@1444863965040/Segmenting-SAR-images-of-a-pond-top-and-oil-spill-bottom-From-left-to-right.png)  | c | 
 |<center>**Hydrodynamic modelling**</center> | <center>**Infrastructure**</center> | <center>**Drones Surveilance**</center> |
 | d | e | f | 
 
