@@ -1,11 +1,10 @@
-## Main goals
+<span style="font-size:2em;">Main goals</span>
 
-### Ship Detection
-### Oil spill Detection
-### Oil Dispersion
-### Hydrodynamic mod
-### Infrastructure
-### Drones Surveilance
+| Ship Detection | Oil spill Detection | Oil Dispersion |
+|----------------|---------------------|----------------|
+| a | b | c | 
+|<center>**Hydrodynamic modelling**</center> | <center>**Infrastructure**</center> | <center>**Drones Surveilance**</center> |
+| d | e | f | 
 
 <!-- 
 SisMOM's AI Team homepage
