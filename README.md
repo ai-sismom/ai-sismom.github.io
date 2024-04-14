@@ -36,9 +36,11 @@ HTML
 | <img src="http://www3.cptec.inpe.br/dimnt/wp-content/uploads/sites/3/2020/07/JOS%C3%89-ROBERTO-MOTTA-GARCIA.png" width="125" height="125"> | <img src="/img/JRMGarcia.jpeg" width="125" height="125"> |
 -->
 
-## Team:
+## SisMOM AI Team
 
-*  MP Graziotto
-*  Bruna
-*  Fernando
-*  Melissa 
+*  [JR Garcia](https://github.com/Garcia-INPE)
+*  [Maria Paula Graziotto](https://github.com/)
+*  [Bruna Leal](https://github.com/bruezb)
+*  [Fernando Bertolaccini](https://github.com/fernando-bertolaccini)
+*  [Melissa Oliveira](https://github.com/)
+
