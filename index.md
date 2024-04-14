@@ -1,10 +1,14 @@
-<span style="font-size:2em;">Main goals</span>
+##Main goals
 
 | Ship Detection | Oil spill Detection | Oil Dispersion |
 |----------------|---------------------|----------------|
-| a | b | c | 
+| a | [](https://www.researchgate.net/profile/Gui-Song_XIA/publication/281530593/figure/fig2/AS:284594248142856@1444863965040/Segmenting-SAR-images-of-a-pond-top-and-oil-spill-bottom-From-left-to-right.png)  | c | 
 |<center>**Hydrodynamic modelling**</center> | <center>**Infrastructure**</center> | <center>**Drones Surveilance**</center> |
 | d | e | f | 
+
+## References
+Ship: Greidanus, H.; Alvarez, M.; Santamaria, C.; Thoorens, F.-X.; Kourti, N.; Argentieri, P. The SUMO Ship Detector Algorithm for Satellite Radar Images. Remote Sens. 2017, 9, 246. https://doi.org/10.3390/rs9030246
+Oil: GIS and Earth Observation University 2024 at https://www.geo.university/pages/blog?p=oil-spill-detection-with-sar-images
 
 <!-- 
 SisMOM's AI Team homepage
