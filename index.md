@@ -1,8 +1,9 @@
 ##Main goals
-[IMG_SHIP_DET]: "https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png"
+```
+IMG_CHIP_URL = "https://www.xxx.com/file.phg
+```
 
-This is a link to [IMG_SHIP_DET]
-
+Este é o link da imagem {{IMG_CHIP_URL}}
 
 | Ship Detection | Oil spill Detection | Oil Dispersion |
 |----------------|---------------------|----------------|
