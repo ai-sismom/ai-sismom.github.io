@@ -2,6 +2,22 @@
 
 ## Main goals
 
+<table border="1" bordercolor="#aaa" cellspacing="0" cellpadding="0" width="100%">
+<th>
+    <td width="(100/2)%">Ship Detection</td>
+    <td width="(100/2">Oil Spill Detection</td>
+</th>
+<tr>
+    <td><img width="100%" height="100%" src="" />
+      <img src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014, Hierarchical ship detection and recognition with high-resolution polarimetric synthetic aperture radar imagery)" style="text-align: center; height: 100px; width:100%;"/>
+    </td>
+    <td><img width="100%" height="100%" src="" />
+      <img src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014, Hierarchical ship detection and recognition with high-resolution polarimetric synthetic aperture radar imagery)" style="text-align: center; height: 100px; width:100%;"/>
+    </td>
+</tr>
+</table>
+
+<!--
 | Ship Detection | Oil spill Detection | Oil Dispersion |
 |----------------|---------------------|----------------|
 | <div style="width:(100/3)%"><a  href="https://www.researchgate.net/publication/270769959_Hierarchical_ship_detection_and_recognition_with_high-resolution_polarimetric_synthetic_aperture_radar_imagery"><img src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014, Hierarchical ship detection and recognition with high-resolution polarimetric synthetic aperture radar imagery)" style="text-align: center; height: 100px; width:100%;"/> </a></div> | <div style="width:(100/3)%"><a href="https://www.researchgate.net/publication/281530593_SAR_Image_Segmentation_via_Non-local_Active_Contours"> <img src="https://www.researchgate.net/profile/Gui-Song_XIA/publication/281530593/figure/fig2/AS:284594248142856@1444863965040/Segmenting-SAR-images-of-a-pond-top-and-oil-spill-bottom-From-left-to-right.png" alt="(Liu et al., 2013, SAR Image Segmentation via Non-local Active Contours)" style="text-align: center; height: 100px; width:100%;"/> </a></div> | <div style="width:(100/3)%"> c </div> | 
