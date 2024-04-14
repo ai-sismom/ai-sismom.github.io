@@ -1,7 +1,8 @@
 ## Main goals
 | Ship Detection | Oil Spill Detection | Oil Dispersion |
 |----------------|---------------------|----------------|
-[<img width="100%" height="100%" src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014)" style="text-align: center; height: 100px; width:200;"/>]()
+| [<img width="100%" height="100%" src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014)" style="text-align: center; height: 100px; width:200;"/>]() | [<img width="100%" height="100%" src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014)" style="text-align: center; height: 100px; width:200;"/>]() | [<img width="100%" height="100%" src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014)" style="text-align: center; height: 100px; width:200;"/>]() |
+
 
 
                        
