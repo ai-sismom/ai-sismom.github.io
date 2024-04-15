@@ -1,10 +1,9 @@
 ## SisMOM / INPE / MCTI Project
 
-SisMOM is an acronym for **Oil Spill Monitoring System for the Ocean** in Portuguese (Brazil). It is funded by the Ministry of Science and Technology ([MCTI]()) via [FINEP]() and is executed by [INPE]() which engaged several partners institutions. In a nutshell, SisMOM, is a proof of concept of a dissuasion tool for IBAMA and Brazilian Navy and is based on nine sub-projects which is composed by a coordinator and collaborators. [More about SisMOM]().
+SisMOM is an acronym for **Oil Spill Monitoring System for the Ocean** in Portuguese (Brazil). It is funded by the Ministry of Science and Technology ([MCTI](https://www.gov.br/mcti/pt-br)) via [FINEP](http://www.finep.gov.br/) and is executed by [INPE](https://www.gov.br/inpe/pt-br) which engaged several partners institutions. In a nutshell, SisMOM, is a proof of concept of a dissuasion tool for IBAMA and Brazilian Navy and is based on nine sub-projects which are composed by a coordinator and collaborators. [More about SisMOM]().
 
-## SisMOM Main Goal
-
-| Description of the Objective | Example |
+## SisMOM composition
+| Description of the sub-goals | Example |
 |-|:-:|
 | **1. Ship Detection:** Responsible for detecting ships from satellite data (optical and SAR). Traditional CFAR methodology and Deep Learning is going to be used to build a labelled dataset for AI training. | [<img src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014)" />](https://www.researchgate.net/publication/270769959_Hierarchical_ship_detection_and_recognition_with_high-resolution_polarimetric_synthetic_aperture_radar_imagery)[^1] |
 | **2. Oil Spill Detection:** Responsible for detecting oil spill in the ocean, also from satellite data (optical and SAR). This sub-project will also build a labelled training dataset with uses cases occurred in Brazil by using traditional (but good) methodologies. In addition to monitor oil spill in the ocean, we'll mine social media in order to check (via AI) for messages and photos related to oil spill on the beach. This is important because in some cases the oil navigates under the surface of the water and suddenly appears on the beach and we want to know it as soon as possible. | [<img src="https://www.researchgate.net/profile/Gui-Song_XIA/publication/281530593/figure/fig2/AS:284594248142856@1444863965040/Segmenting-SAR-images-of-a-pond-top-and-oil-spill-bottom-From-left-to-right.png" alt="(Lang et al., 2014)" />](https://www.researchgate.net/figure/Segmenting-SAR-images-of-a-pond-top-and-oil-spill-bottom-From-left-to-right_fig2_281530593)[^2] |
@@ -15,19 +14,6 @@ SisMOM is an acronym for **Oil Spill Monitoring System for the Ocean** in Portug
 | **7. Drone Surveilance:** Responsible for providing an hierarchy of drones for crossing along beaches seeking for oils spills, find then and report. | <img src="/assets/img/SAM-OilSlicks.png" alt="(by JRMGarcia)" />[^7] |
 | **8. Satellite Surveilance:** Is only a study about the needed hierarchy of satellites to monitor our 5.5 million km2 of our ocean. We will not provide them, they are just studies of feasibility to be executed in another project. | |
 | **9. Artificial Intelligence:** Is present at every sub-goal. It will be used to not only improve the outcomes from every sub-project as their input data. | |
-
-<!-- 
-SisMOM's AI Team homepage
-[INPE' homepage](https://www.gov.br/inpe/pt-br)
-
-## Coordination: Garcia
-![Alt text](https://media.licdn.com/dms/image/C4E03AQHGWTSbVI0eLQ/profile-displayphoto-shrink_200_200/0/1516305289998?e=1718236800&v=beta&t=xaiBsbI7jk3lDJSdpLaUs129mpv4Q7RWkCvqDgJG12U)
-
-HTML
-| Old me | New me |
-|---|---|
-| <img src="http://www3.cptec.inpe.br/dimnt/wp-content/uploads/sites/3/2020/07/JOS%C3%89-ROBERTO-MOTTA-GARCIA.png" width="125" height="125"> | <img src="/img/JRMGarcia.jpeg" width="125" height="125"> |
--->
 
 ## SisMOM AI Team
 
