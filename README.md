@@ -1,6 +1,6 @@
 ## Project SisMOM / INPE / MCTI
 
-SisMOM is an acronym for **Oil Spill Monitoring System for the Ocean** in Portuguese (Brazil). It is funded by the Ministry of Science and Technology ([MCTI](https://www.gov.br/mcti/pt-br)) via [FINEP](http://www.finep.gov.br/) and is executed by [INPE](https://www.gov.br/inpe/pt-br) which engaged several partners institutions. In a nutshell, SisMOM, is a proof of concept of a dissuasion system for IBAMA and Brazilian Navy and is based on nine sub-projects which are composed by a coordinator and collaborators. [More about SisMOM]().
+SisMOM is an acronym for **Oil Spill Monitoring System for the Ocean** in Portuguese (Brazil). It is funded by the Ministry of Science and Technology ([MCTI](https://www.gov.br/mcti/pt-br)) via [FINEP](http://www.finep.gov.br/) and is executed by [INPE](https://www.gov.br/inpe/pt-br) which engaged several partners institutions. In a nutshell, SisMOM is a proof of concept of a dissuasion system for IBAMA and Brazilian Navy and is based on nine sub-projects which are composed by a coordinator and collaborators. [More about SisMOM]().
 
 ## SisMOM composition
 
@@ -27,6 +27,6 @@ SisMOM is an acronym for **Oil Spill Monitoring System for the Ocean** in Portug
 [^1]: Lang, Haitao & Zhang, Jie & Zhang, Ting & Zhao, Di & Meng, Junmin. (2014). Hierarchical ship detection and recognition with high-resolution polarimetric synthetic aperture radar imagery. Journal of Applied Remote Sensing. 8. 083623. 10.1117/1.JRS.8.083623. 
 [^2]: Liu, Gang & Xia, Gui-Song & Yang, Wen. (2013). SAR Image Segmentation via Non-local Active Contours. International Geoscience and Remote Sensing Symposium (IGARSS). 10.1109/IGARSS.2014.6947294. 
 [^3]: Produced by [Ebenezer Agyei-Yeboah.](https://github.com/), SisMOM's scholarship holder.
-[^5]: This image is from [Windows to the Universe ®](http://windows2universe.org) © 2010, [National Earth Science Teachers Association](http://www.nestanet.org/).
+[^5]: [Windows to the Universe ®](http://windows2universe.org) © 2010, [National Earth Science Teachers Association](http://www.nestanet.org/).
 [^6]: [The U.S. Geological Survey](https://www.usgs.gov/centers/eesc) public domain archive.
 [^7]: Produced by [JR Garcia](https://github.com/Garcia-INPE) SisMOM's AI Coordinator.
