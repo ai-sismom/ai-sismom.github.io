@@ -28,5 +28,5 @@ SisMOM is an acronym for **Oil Spill Monitoring System for the Ocean** in Portug
 [^2]: Liu, Gang & Xia, Gui-Song & Yang, Wen. (2013). SAR Image Segmentation via Non-local Active Contours. International Geoscience and Remote Sensing Symposium (IGARSS). 10.1109/IGARSS.2014.6947294. 
 [^3]: Produced by [Ebenezer Agyei-Yeboah.](https://github.com/), SisMOM's scholarship holder.
 [^5]: This image is from [Windows to the Universe ®](http://windows2universe.org) © 2010, [National Earth Science Teachers Association](http://www.nestanet.org/).
-[^6] [The U.S. Geological Survey](https://www.usgs.gov/centers/eesc) public domain archive.
+[^6]: [The U.S. Geological Survey](https://www.usgs.gov/centers/eesc) public domain archive.
 [^7]: Produced by [JR Garcia](https://github.com/Garcia-INPE) SisMOM's AI Coordinator.
