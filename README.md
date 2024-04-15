@@ -3,6 +3,7 @@
 SisMOM is an acronym for **Oil Spill Monitoring System for the Ocean** in Portuguese (Brazil). It is funded by the Ministry of Science and Technology ([MCTI](https://www.gov.br/mcti/pt-br)) via [FINEP](http://www.finep.gov.br/) and is executed by [INPE](https://www.gov.br/inpe/pt-br) which engaged several partners institutions. In a nutshell, SisMOM, is a proof of concept of a dissuasion system for IBAMA and Brazilian Navy and is based on nine sub-projects which are composed by a coordinator and collaborators. [More about SisMOM]().
 
 ## SisMOM composition
+
 | Description of the sub-goals | Example |
 |-|:-:|
 | **1. Ship Detection:** Responsible for detecting ships from satellite data (optical and SAR). Traditional CFAR methodology and Deep Learning is going to be used to build a labelled dataset for AI training. | [<img src="https://www.researchgate.net/profile/Haitao-Lang/publication/270769959/figure/fig1/AS:613919064334338@1523381119250/Typical-samples-of-challenges-for-both-ship-detection-and-category-recognition-in.png" alt="(Lang et al., 2014)" />](https://www.researchgate.net/publication/270769959_Hierarchical_ship_detection_and_recognition_with_high-resolution_polarimetric_synthetic_aperture_radar_imagery)[^1] |
