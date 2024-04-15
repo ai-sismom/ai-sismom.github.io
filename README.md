@@ -1,6 +1,6 @@
-## SisMOM / INPE / MCTI Project
+## Project SisMOM / INPE / MCTI
 
-SisMOM is an acronym for **Oil Spill Monitoring System for the Ocean** in Portuguese (Brazil). It is funded by the Ministry of Science and Technology ([MCTI](https://www.gov.br/mcti/pt-br)) via [FINEP](http://www.finep.gov.br/) and is executed by [INPE](https://www.gov.br/inpe/pt-br) which engaged several partners institutions. In a nutshell, SisMOM, is a proof of concept of a dissuasion tool for IBAMA and Brazilian Navy and is based on nine sub-projects which are composed by a coordinator and collaborators. [More about SisMOM]().
+SisMOM is an acronym for **Oil Spill Monitoring System for the Ocean** in Portuguese (Brazil). It is funded by the Ministry of Science and Technology ([MCTI](https://www.gov.br/mcti/pt-br)) via [FINEP](http://www.finep.gov.br/) and is executed by [INPE](https://www.gov.br/inpe/pt-br) which engaged several partners institutions. In a nutshell, SisMOM, is a proof of concept of a dissuasion system for IBAMA and Brazilian Navy and is based on nine sub-projects which are composed by a coordinator and collaborators. [More about SisMOM]().
 
 ## SisMOM composition
 | Description of the sub-goals | Example |
