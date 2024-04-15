@@ -10,13 +10,12 @@ SisMOM is an acronym for **Oil Spill Monitoring System for the Ocean** in Portug
 | **3. Oil Dispersion:** Responsible for the oil trajectory, the oil dispersion, both forward as backwards. This is super important because we want to know where the oil came from (to match the back trajectory with the ships detected by M1) and to where it will go, in order to advise coast cities at the ending trajectory (if it happens) in terms of amount of oil and when it will eventually reach the city. | <img src="/assets/img/TrajetoriaReversa.jpg" alt="(Oil Backwards Trajectory, by JRMGarcia)" />[^3] |
 | **4. Situation Room:** Responsible for showing the current state of every detection at SisMOM and sub tasks being processed, as your Cerulean web interface and alert system. Is is also responsible for starting the backwards and forwards trajectories of the oil as soon as some oil spill is detected by some source, either in the ocean or in the beach. | | 
 | **5. Hydrodynamic Modelling:** Responsible for the coupled numeric modelling of the ocean and atmosphere. The BESM (Brazilian Earth System Model) will simulate the globe in a low resolution and the Eta Model will refine the grid up down 100m in the horizontal grid resolution. | [<img src="https://www.windows2universe.org/earth/climate/images/ucar_model_input.jpg" alt="(Windows to the Universe ®)" />](https://www.windows2universe.org/earth/Water/ocean_atmosphere_coupled_models.html)[^5] |
-| **6. Infrastructure and DB:** Deals with the infrastructure used by the project, things like which environment to use, where and how to store the datasets, where to process jobs, run AI training, how things communicate among them, etc. This includes from where the Situational Room will run. | |
+| **6. Infrastructure and DB:** Deals with the infrastructure used by the project, things like which environment to use, where and how to store the datasets, where to process jobs, run AI training, how things communicate among them, etc. This includes from where the Situational Room will run. | [<img src="https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/Figure3_STEMModeling.jpg?itok=g52rEgUB" alt="(Eastern Ecological Science Center)" />](https://www.usgs.gov/media/images/gis-data-layers-visualization)[^6] |
 | **7. Drone Surveilance:** Responsible for providing an hierarchy of drones for crossing along beaches seeking for oils spills, find then and report. | <img src="/assets/img/SAM-OilSlicks.png" alt="(by JRMGarcia)" />[^7] |
 | **8. Satellite Surveilance:** Is only a study about the needed hierarchy of satellites to monitor our 5.5 million km2 of our ocean. We will not provide them, they are just studies of feasibility to be executed in another project. | |
 | **9. Artificial Intelligence:** Is present at every sub-goal. It will be used to not only improve the outcomes from every sub-project as their input data. | |
 
 ## SisMOM AI Team
-
 *  [JR Garcia](https://github.com/Garcia-INPE)
 *  [Maria Paula Graziotto](https://github.com/)
 *  [Bruna Leal](https://github.com/bruezb)
@@ -26,6 +25,7 @@ SisMOM is an acronym for **Oil Spill Monitoring System for the Ocean** in Portug
 ### References
 [^1]: Lang, Haitao & Zhang, Jie & Zhang, Ting & Zhao, Di & Meng, Junmin. (2014). Hierarchical ship detection and recognition with high-resolution polarimetric synthetic aperture radar imagery. Journal of Applied Remote Sensing. 8. 083623. 10.1117/1.JRS.8.083623. 
 [^2]: Liu, Gang & Xia, Gui-Song & Yang, Wen. (2013). SAR Image Segmentation via Non-local Active Contours. International Geoscience and Remote Sensing Symposium (IGARSS). 10.1109/IGARSS.2014.6947294. 
-[^3]: Produced by [Ebenezer Agyei-Yeboah.](https://github.com/), SisMOM's scholarship holder
-[^5]: This image is from [Windows to the Universe ®](http://windows2universe.org) © 2010, [National Earth Science Teachers Association](http://www.nestanet.org/). 
-[^7]: Produced by [JR Garcia](https://github.com/Garcia-INPE) using [SAM - Segment Anything Model](https://segment-anything.com/)
+[^3]: Produced by [Ebenezer Agyei-Yeboah.](https://github.com/), SisMOM's scholarship holder.
+[^5]: This image is from [Windows to the Universe ®](http://windows2universe.org) © 2010, [National Earth Science Teachers Association](http://www.nestanet.org/).
+[^6] [The U.S. Geological Survey](https://www.usgs.gov/centers/eesc) public domain archive.
+[^7]: Produced by [JR Garcia](https://github.com/Garcia-INPE) SisMOM's AI Coordinator.
