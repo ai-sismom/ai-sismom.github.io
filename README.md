@@ -17,7 +17,7 @@
 | **9. Artificial Intelligence:** Is present at every sub-goal. It will be used to not only improve the outcomes from every sub-project as their input data. | |
 
 ## SisMOM AI Team
-*  [JR Garcia](https://github.com/Garcia-INPE)
+*  [JR Garcia's GitHub](https://github.com/Garcia-INPE) [JR Garcia's Portfolio](https://Garcia-INPE.github.io)
 *  [Maria Paula Graziotto](https://github.com/)
 *  [Bruna Leal](https://github.com/bruezb)
 *  [Fernando Bertolaccini](https://github.com/fernando-bertolaccini)
